@@ -1,0 +1,115 @@
+<CFe>
+  <infCFe Id="CFe35240149856966000114590010697350178114926805" versao="0.07" versaoDadosEnt="0.07" versaoSB="040016">
+    <ide>
+      <cUF>35</cUF>
+      <cNF>492680</cNF>
+      <mod>59</mod>
+      <nserieSAT>001069735</nserieSAT>
+      <nCFe>017811</nCFe>
+      <dEmi>20240127</dEmi>
+      <hEmi>182849</hEmi>
+      <cDV>5</cDV>
+      <tpAmb>1</tpAmb>
+      <CNPJ>11914993000123</CNPJ>
+      <signAC>W+tehkRVUSuVaIQfB3zT6OfrjdCbt54FC4BW27iCT+K6dde4j6jgyFnCsfr+QD/H43T0gD6jR2B2tGxmPvgZwDgypJW5G944srd10PuJxHlCz+1TR986SHAiJSvlz760W4of8JEQEiHNFWzcVtt2FeDIorIZks1XujhKmaBsqWbw1iY0icXJc3sL5GpB2KGR0lAphoZV5bfRPsIZtf4D6IEyAR9g1Lx5b3ulZveBU0EZTXou2MQURdfA2cR45Jj0jqeFmeZJRXVO446qj4FuXICO6lfTRGBN7vll1YsNZf4HIcvOZ1frjDNw7+419XdIQ3i2t2bsf/HBiaNfr2RWZQ==</signAC>
+      <assinaturaQRCODE>AFWvoIl/gF0br+glO6MYxVHuLiuKLLZ2PM4PrB7NDhhZUvV7z+s0erX1hewJmu0W7VLcrmlFP9SnEH8K5r8F2ALlCTLef7BYfaeNtPVd2Bu668AkHG+CrucWkaQ9toDNXyJm72SYt2OO1HtTi+7Cs9sFi/zND45jfoDNxYn4RzCMcbwE/UIyq8+mkwIerGOuuuQtQBaE6Yiv3T8bitUnECENyDhy4H3IhpI9my1Oldx/IDuWGWvy9kCkmFUh4tjeaauVTvhkze97bT1PoFU7KstvVqCuwvIyV1qVkw6QoK2EcudMy/B+SenCbKp6QLiraQjWoBTJ7RDZU76O0RdpUQ==</assinaturaQRCODE>
+      <numeroCaixa>002</numeroCaixa>
+    </ide>
+    <emit>
+      <CNPJ>49856966000114</CNPJ>
+      <xNome>MINAKAWA DEPOSITO DE FRUTAS E VERDURAS LTDA</xNome>
+      <enderEmit>
+        <xLgr>RUA SAO PAULO</xLgr>
+        <nro>210</nro>
+        <xCpl>00000</xCpl>
+        <xBairro>JAFA</xBairro>
+        <xMun>GARCA</xMun>
+        <CEP>17400000</CEP>
+      </enderEmit>
+      <IE>315009794111</IE>
+      <cRegTrib>1</cRegTrib>
+      <indRatISSQN>N</indRatISSQN>
+    </emit>
+    <dest />
+    <det nItem="1">
+      <prod>
+        <cProd>999</cProd>
+        <xProd>DIVERSOS</xProd>
+        <NCM>08119000</NCM>
+        <CFOP>5405</CFOP>
+        <uCom>UN</uCom>
+        <qCom>1.0000</qCom>
+        <vUnCom>12.000</vUnCom>
+        <vProd>12.00</vProd>
+        <indRegra>A</indRegra>
+        <vItem>12.00</vItem>
+      </prod>
+      <imposto>
+        <vItem12741>3.77</vItem12741>
+        <ICMS>
+          <ICMSSN102>
+            <Orig>0</Orig>
+            <CSOSN>500</CSOSN>
+          </ICMSSN102>
+        </ICMS>
+        <PIS>
+          <PISNT>
+            <CST>07</CST>
+          </PISNT>
+        </PIS>
+        <COFINS>
+          <COFINSNT>
+            <CST>07</CST>
+          </COFINSNT>
+        </COFINS>
+      </imposto>
+    </det>
+    <total>
+      <ICMSTot>
+        <vICMS>0.00</vICMS>
+        <vProd>12.00</vProd>
+        <vDesc>0.00</vDesc>
+        <vPIS>0.00</vPIS>
+        <vCOFINS>0.00</vCOFINS>
+        <vPISST>0.00</vPISST>
+        <vCOFINSST>0.00</vCOFINSST>
+        <vOutro>0.00</vOutro>
+      </ICMSTot>
+      <vCFe>12.00</vCFe>
+      <vCFeLei12741>3.77</vCFeLei12741>
+    </total>
+    <pgto>
+      <MP>
+        <cMP>03</cMP>
+        <vMP>12.00</vMP>
+      </MP>
+      <vTroco>0.00</vTroco>
+    </pgto>
+    <infAdic>
+      <infCpl>Tributos: R$ 3.77 (31.45%) - Fed: 1.61 (13.45%) / Est: 2.16 (18.00%) / Mun: 0.00 (0.00%) - Fonte IBPT</infCpl>
+      <obsFisco xCampo="05.07.05.04">
+        <xTexto>Comete crime quem sonega</xTexto>
+      </obsFisco>
+    </infAdic>
+  </infCFe>
+  <Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+    <SignedInfo>
+      <CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+      <SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256" />
+      <Reference URI="#CFe35240149856966000114590010697350178114926805">
+        <Transforms>
+          <Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" />
+          <Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+        </Transforms>
+        <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+        <DigestValue>8diYV8ilr92b2d29V7jaqf79dx3ToBTwWMiqhAVB3IU=</DigestValue>
+      </Reference>
+    </SignedInfo>
+    <SignatureValue>EarSnQYVllQ6Yo1CMUvwX1JFTeiryXkn5l29rIlVHzp0ef/hg+C8W725DqtcUhT05pslw2c7d3ETpqqnus3f81EgLJ5TR6sewAGAKuZyg9d45HgAFOeNtp+Ow5vodjDtVVe5G3ULRMx1m4Dlz9Ts1QY4jijMa3ROwZDjV8V0/F0fz/Fv5OApnULqMwOJu14UZOzo5plipI0IGDqJAvPltjD+OhKqw8trDm0C0Cq88eGwymdWI7jVQW5octljUgdrdukwvu+AoG1jI0m3uNMOjy4fwo+U7QTrbRalkOZWOqCJ/SqeDdAVw+EZO+u2CzkZqu+ZHdWNZtIIXyofC2Hg0Q==</SignatureValue>
+    <KeyInfo>
+      <X509Data>
+        <X509Certificate>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</X509Certificate>
+      </X509Data>
+    </KeyInfo>
+  </Signature>
+</CFe>
